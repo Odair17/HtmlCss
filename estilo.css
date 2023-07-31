@@ -1,0 +1,112 @@
+body {
+    padding: 0%;
+background-color: rgb(16, 66, 49);
+}
+
+.all {
+    display: flex;
+    padding-right: 15%;
+    padding-left: 15%;
+    margin: 0%;
+}
+
+.lpart {
+    background-color: rgb(30, 187, 187);  
+    width: 30%;
+    height: fit-content;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    justify-content: center; 
+    text-align: center;
+}
+
+.imgg {
+    display: flex;
+    text-align: left;
+    font-size: 15px;
+}
+
+.imggg {
+    display: flex;
+    padding-left: 10px;
+    text-align: left;
+    font-size: 15px;
+}
+
+.imgggg {
+    display: flex;
+    padding-left: 10px;
+    text-align: left;
+    font-size: 15px;
+}
+
+p {
+    text-align: left;
+    padding: 0%;
+}
+
+.dw {
+    border-radius: 5px;
+    width: 70%;
+    padding-top: 0%;
+    height: 5px;
+    background-color: white;
+}
+
+.dg {
+    border-radius: 5px;
+    width: 50%;
+    padding-top: 0%;
+    height: 5px;
+    background-color: white;
+}
+
+.pr {
+    border-radius: 5px;
+    width: 80%;
+    padding-top: 0%;
+    height: 5px;
+    background-color: white;
+}
+
+.hobb {
+    display: flex;
+    justify-content: space-around;
+}
+
+.rpart {
+    background-color: white; 
+    
+    width: 70%;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    justify-content: center; 
+    text-align: center;
+}
+
+#tp {
+    text-align: left;
+    padding-left: 10%;
+    color: rgb(30, 187, 187);
+}
+
+.pt {
+    
+    padding-left: 10%;
+}
+
+.info {
+    margin-left: 10%;
+    padding-right: 5%;
+    padding-left: 5%;
+    width: fit-content;
+    background-color: rgb(30, 187, 187);
+    text-align: left;
+    border-radius: 20px;
+}
+
+.fo {
+    padding-left: 10%;
+    text-align: left;
+}
+
